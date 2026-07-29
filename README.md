@@ -130,7 +130,7 @@ mvn exec:java
 
 ### **How many hours did it take you to complete this assessment?**
 Approx. **3.5 hours**  
-(Breakdown: File I/O ~ X, Database ~ X, Debugging ~ X)
+(Breakdown: File I/O ~ 1 hour, Database ~ 1.5 hours, Debugging ~ 1 hour)
 
 ### **What online resources did you use?**
 - Java documentation  
