@@ -107,7 +107,7 @@ A short video demonstrating:
 
 ### **1. Clone the repository**
 ```
-git clone <your-repo-link>
+git clone [<your-repo-link>](https://github.com/feraszen/QAP4-JAVA-Persisting-Data-with-File-I-O-and-PostgreSQL-Database.git) 
 ```
 
 ### **2. Configure PostgreSQL**
