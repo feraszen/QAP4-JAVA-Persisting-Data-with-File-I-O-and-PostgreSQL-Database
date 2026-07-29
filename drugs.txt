@@ -1,0 +1,2 @@
+101,Panadol,5.99,500mg
+202,lbuprofen,8.99,200mg
